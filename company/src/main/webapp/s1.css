@@ -1,0 +1,42 @@
+@charset "UTF-8";
+@import url("https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" );
+
+body{
+	background-color:#e2ebf3;
+}
+
+.contain{
+	 
+	margin: 0 auto;
+	width:600px;
+	height:900px;
+	text-align:center;
+	text-vlign:center;
+	
+	
+}
+.header{
+	color:#fff;
+	font-family:Comic Sans;
+	width:600px;
+	height:100px;
+	margin-bottom:5px;
+	background-color:#9bb9d4;
+}
+.content{
+	width:600px;
+	height:600px;
+	margin-bottom:5px;
+	margin-top:5px;
+	background-color:#d4e1ed;
+}
+.footer{
+		color:#fff;
+	
+	width:600px;
+	height:200px;
+	text-align:center;
+	text-vlign:center;
+	background-color:#375d81;
+	margin-top:5px;
+}

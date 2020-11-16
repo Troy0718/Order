@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns = "http://www.springframework.org/schema/beans"
+   xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation = "http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+	<bean id="md" class="Dao.memberDao"/>
+	<bean id="pd" class="Dao.porderDao"/>
+	<bean id="qm" class="Dao.querymember"/>
+	<bean id="qp" class="Dao.queryporder"/>
+   	<bean id="ms" class="Dao.messageDao"/>
+   
+   	<bean id="FD" class="Dao.FactDao">
+   		<property name="md" ref="md"/>
+   		<property name="qm" ref="qm"/>
+   		<property name="qp" ref="qp"/>
+   		<property name="pd" ref="pd"/>
+   		<property name="ms" ref="ms"/>
+   		</bean>
+   		
+</beans>

@@ -1,0 +1,33 @@
+ 
+
+
+body{
+  background-image:  url('images/bg.jpg');
+  
+  font-family: 微軟正黑體;
+}
+
+.container{
+  background-color: white;
+}
+
+#shop_head{
+  margin-bottom: 15px;
+}
+
+#shop_main{
+  min-height: 200px;
+}
+
+#shop_foot{
+ background-color: rgb(51, 61, 101);
+ color: #fff;
+ padding: 30px;
+ line-height: 1.8;
+ margin: 15px 0px;
+}
+
+.thumbnail img{
+	width:150px;
+	height:150px;
+}

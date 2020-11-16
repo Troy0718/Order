@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC 
+"-//Apache Software Foundation//DTD Struts Configuration 2.1//EN" 
+"http://struts.apache.org/dtds/struts-2.1.dtd">
+<struts>
+	<package name="default"  extends="struts-default">
+		<action name="Login" class="Controller.LoginAction">
+			<result name="LoginSuccess" >LoginSuccess.jsp</result>
+			<result name="LoginERROR" >LoginERROR.jsp</result>
+		</action>
+		<action name="addmember" class="Controller.addmemberAction">
+			<result name="addSuccess" >addSuccess.jsp</result>
+			<result name="userERROR" type="redirect">member/userERROR.jsp</result>
+		</action>
+		<action name="addporder" class="Controller.addporderAction">
+			<result name="confirm" type="redirect">porder/confirm.jsp</result>			
+		</action>
+		<action name="finish" class="Controller.finishAction">
+			<result name="finish" type="redirect">porder/finish.jsp</result>			
+		</action>
+	</package>
+</struts>
