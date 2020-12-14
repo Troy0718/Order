@@ -8,8 +8,12 @@ Boostrap+Sturs2+Hibernate+mysql
 
 
 <ol>
-  <li>帳號：asdf</li>
+  <li>帳號：assdf</li>
   <li>密碼：1234</li>
 </ol>
-<a href="https://github.com/Troy0718/Order/tree/main/sql_script(database)">資料庫</a>
+<a href="https://github.com/Troy0718/Order/tree/main/sql_script(database)">資料庫連結</a>
+
+<h2 align="center">登入失敗</h2>
+<>
+
 
