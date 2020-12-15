@@ -14,6 +14,13 @@ Boostrap+Sturs2+Hibernate+mysql
 <a href="https://github.com/Troy0718/Order/tree/main/sql_script(database)">資料庫連結</a>
 
 <h2 align="center">登入失敗</h2>
-<>
+<img src="https://github.com/Troy0718/Order/blob/main/作品畫面/登入失敗.png">
+
+<h2 align="center">登入成功</h2>
+<img src="https://github.com/Troy0718/Order/blob/main/作品畫面/登入成功.png">
+
+<h2 align="center">進入購物選單</h2>
+<img src="https://github.com/Troy0718/Order/blob/main/作品畫面/登入成功.png">
+
 
 
