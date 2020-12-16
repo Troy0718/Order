@@ -40,7 +40,7 @@ Boostrap+Sturs2+Hibernate+mysql
 </p>
 
 <h2 align="center">刪除訂單</h2>
-<img src="https://github.com/Troy0718/Order/blob/main/作品畫面/訂單刪除.png">
+<img src="https://github.com/Troy0718/Order/blob/main/作品畫面/刪除訂單.png">
 <img src="https://github.com/Troy0718/Order/blob/main/作品畫面/刪除完成.png">
 <p align="center">
 回到功能選單 進入 刪除訂單<br>
