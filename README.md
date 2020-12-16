@@ -33,11 +33,32 @@ Boostrap+Sturs2+Hibernate+mysql
 <h2 align="center">修改訂單</h2>
 <img src="https://github.com/Troy0718/Order/blob/main/作品畫面/訂單修改.png">
 <img src="https://github.com/Troy0718/Order/blob/main/作品畫面/修改完成.png">
+<p align="center">
 回到功能選單 進入 修改訂單
-透過訂單id做為對訂單修改的依據,修改整筆訂單內容
-如上圖範例
+透過訂單id做為對訂單修改的依據,修改整筆訂單內容(客戶姓名,消費數量)<br> 
+如上圖範例<br>
+</p>
 
 <h2 align="center">刪除訂單</h2>
+<img src="https://github.com/Troy0718/Order/blob/main/作品畫面/訂單刪除.png">
+<img src="https://github.com/Troy0718/Order/blob/main/作品畫面/刪除完成.png">
+<p align="center">
+回到功能選單 進入 刪除訂單<br>
+透過訂單id做為對訂單刪除的依據,直接將整筆訂單刪除<br> 
+如上圖範例<br>
+</p>
+
+<h2 align="center">查詢訂單</h2>
+<img src="https://github.com/Troy0718/Order/blob/main/作品畫面/查詢訂單.png">
+<p align="center">
+回到功能選單 進入 查詢訂單<br>
+透過訂單id 或者 消費金額 做為對訂單查詢的依據, 找出該筆訂單<br> 
+如上圖範例<br>
+</p>
+
+
+
+
 
 
 
