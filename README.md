@@ -37,6 +37,7 @@ Boostrap+Sturs2+Hibernate+mysql
 透過訂單id做為對訂單修改的依據,修改整筆訂單內容
 如上圖範例
 
+<h2 align="center">刪除訂單</h2>
 
 
 
