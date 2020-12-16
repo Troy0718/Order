@@ -49,11 +49,12 @@ Boostrap+Sturs2+Hibernate+mysql
 </p>
 
 <h2 align="center">查詢訂單</h2>
-<img src="https://github.com/Troy0718/Order/blob/main/作品畫面/查詢訂單.png">
+<img src="https://github.com/Troy0718/Order/blob/main/作品畫面/訂單查詢.png">
+<img src="https://github.com/Troy0718/Order/blob/main/作品畫面/查詢結果.png">
 <p align="center">
-回到功能選單 進入 查詢訂單<br>
-透過訂單id 或者 消費金額 做為對訂單查詢的依據, 找出該筆訂單<br> 
-如上圖範例<br>
+回到功能選單->查詢訂單->依客戶需求查詢訂單 <br>
+透過 消費金額 做為對訂單查詢的依據,找出符合查詢條件的訂單項目<br> 
+如上圖範例 
 </p>
 
 
