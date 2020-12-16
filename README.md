@@ -31,7 +31,7 @@ Boostrap+Sturs2+Hibernate+mysql
 確認購買項目後 送出 這一筆訂單將新增到資料庫, 回到上一頁可以再重新決定
 
 <h2 align="center">修改訂單</h2>
-<img src="https://github.com/Troy0718/Order/blob/main/作品畫面/訂單修改.png">
+<img src="https://github.com/Troy0718/Order/blob/main/作品畫面/修改訂單.png">
 <img src="https://github.com/Troy0718/Order/blob/main/作品畫面/修改完成.png">
 <p align="center">
 回到功能選單 進入 修改訂單
