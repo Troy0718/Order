@@ -11,7 +11,7 @@ Boostrap+Sturs2+Hibernate+mysql
   <li>帳號：assdf</li>
   <li>密碼：1234</li>
 </ol>
-<a href="https://github.com/Troy0718/Order/tree/main/sql_script(database)">資料庫連結</a>
+<a href="https://github.com/Troy0718/Order/tree/main/sql_script(database)">資料庫連結 (須先將此資料庫 import 到 MySQL)</a>
 
 <h2 align="center">登入失敗</h2>
 <img src="https://github.com/Troy0718/Order/blob/main/作品畫面/登入失敗.png">
