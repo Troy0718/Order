@@ -61,7 +61,7 @@ Boostrap+Sturs2+Hibernate+mysql
 <img src="https://github.com/Troy0718/Order/blob/main/作品畫面/查詢結果.png">
 <h4 align="center">
 回到功能選單->查詢訂單->依客戶需求查詢訂單 <br>
-透過 消費金額 做為對訂單查詢的依據,找出符合查詢條件的訂單項目<br> 
+透過 消費金額 做為對訂單查詢的依據 如上圖 尋找消費金額介於0~150的訂單,找出符合查詢條件的訂單項目<br> 
 如上圖範例 
 </h4>
 
