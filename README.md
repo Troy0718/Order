@@ -53,7 +53,7 @@ Boostrap+Sturs2+Hibernate+mysql
 <h4 align="center">
 回到功能選單 進入 刪除訂單<br>
 透過訂單id做為對訂單刪除的依據,直接將整筆訂單刪除<br> 
-如上圖範例<br>
+如上圖範例 刪除第4筆訂單<br>
 </h4>
 
 <h2 align="center">查詢訂單</h2>
