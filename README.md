@@ -33,7 +33,7 @@ Boostrap+Sturs2+Hibernate+mysql
 <h2 align="center">消費明細</h2>
 <img src="https://github.com/Troy0718/Order/blob/main/作品畫面/消費明細.png">
 <img src="https://github.com/Troy0718/Order/blob/main/作品畫面/列印結果.png">
-<h4 align="center">訂單確認頁面按送出訂單後,資料新增到資料庫,跳轉到此消費明細頁面,這一頁面可以印出消費明細<h4>
+<h4 align="center">訂單確認頁面按"確認"後,資料新增到資料庫,訂單確認頁面跳轉到此消費明細頁面,這一頁面可以印出消費明細<h4>
 
 
 
